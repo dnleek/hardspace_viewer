@@ -2,7 +2,7 @@
  Real-time stats for Hardspace Shipbreaker R.A.C.Es
 
 # how to install
-1. Install RACErs Ledger mod by sariya: https://git.sariya.dev/sariya/racers-ledger
+1. Install RACErs Ledger mod by sariya: https://github.com/dnleek/shipbreaker-racers-ledger/tree/main
 1. Clone this repo or download a zip of the code
 
 # how to use
